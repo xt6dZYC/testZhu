@@ -1,0 +1,12 @@
+图像处理库：
+1. OpenCV
+2. Scikit-Image
+3. Scipy
+4. Python Image Library (Pillow/PIL)
+5. Matplotlib
+6. SimpleITK
+7. Numpy
+8. Mahotas
+
+爬虫库：
+beauifulSoup4
